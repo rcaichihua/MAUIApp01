@@ -11,7 +11,7 @@
     <VerticalStackLayout>
         
         <Label Text="{local:GeoLocationDeviceName}" FontSize="{StaticResource LabelSize}" ></Label>
-        <Label Text="{local:GeneratorGuid}" FontSize="{StaticResource LabelSize}"/>
+        <Label Text="{local:GeneratorGuid}" FontSize="{StaticResource LabelSizeDavy}"/>
     </VerticalStackLayout>
             
 
